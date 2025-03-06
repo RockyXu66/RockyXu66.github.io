@@ -42,9 +42,7 @@ Xiaohan Sun*, <b>Yinghan Xu</b>*, John Dingliana, Carol O’Sullivan (*=equal co
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
-<video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-  <source src="../images/demo.mp4" type="video/mp4">
-</video>
+<img width="100%" src="../images/CrowdSplat-UserStudy-design.png"></img>
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>CrowdSplat: Exploring Gaussian Splatting For Crowd Rendering</b><br>
