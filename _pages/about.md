@@ -29,7 +29,7 @@ I obtained my Master's degree in Interactive Media Technology from Trinity Colle
 Xiaohan Sun*, <b>Yinghan Xu</b>*, John Dingliana, Carol O’Sullivan (*=equal contribution)<br>
 <i>IEEE Virtual Reality (workshop paper), 2025</i><br>
 <a href="https://bigmmgz.github.io/CrowdSplat/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
-<a href="https://arxiv.org/pdf/2501.17085"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://arxiv.org/abs/2501.17085"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href=""><i class="fas fa-fw fa-video"></i>Video</a>
 </td>
 </tr>
@@ -51,7 +51,7 @@ Xiaohan Sun*, <b>Yinghan Xu</b>*, John Dingliana, Carol O’Sullivan (*=equal co
 Xiaohan Sun*, <b>Yinghan Xu</b>*, John Dingliana, Carol O’Sullivan (*=equal contribution)<br>
 <i>Irish Machine Vision and Image Processing Conference (<b>IMVIP</b> short paper), 2024</i><br>
 <a href="https://bigmmgz.github.io/CrowdSplat/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
-<a href="https://arxiv.org/pdf/2501.17792"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://arxiv.org/abs/2501.17792"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href=""><i class="fas fa-fw fa-video"></i>Video</a><br>
 </td>
 </tr>
