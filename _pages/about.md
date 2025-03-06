@@ -11,7 +11,7 @@ Hi, this is Yinghan Xu (徐英瀚). I am currently a Ph.D. student at the [Graph
 
 My research interests lie in **human-centric 3D vision**, including volumetric video dataset, human reconstruction, motion capture, and avatar generation. Currently, I am focusing on realistic garment reconstruction and rendering using the 3D Gaussian splatting technique.
 
-I obtained my Master's degree in Interactive Media Technology from Trinity College Dublin in 2017, where I was supervised by  [John Dingliana](https://www.scss.tcd.ie/John.Dingliana/). Before that, I obtained my Bachelor's degree in Software Enginnering from Beijing Technology and Business University. Prior to joining this Ph.D. program, I worked as a computer vision engineer in [Mobvoi](https://www.mobvoi.com/) and [STEPVR](https://stepvr.io/) specializing in monocular and multiple-view camera motion capture systems.
+I earned my Master's degree in Interactive Media Technology from Trinity College Dublin in 2017, where I was supervised by [John Dingliana](https://www.scss.tcd.ie/John.Dingliana/). Before starting my Ph.D. program, I worked as a Computer Vision Engineer at [Mobvoi](https://www.mobvoi.com/) and [STEPVR](https://stepvr.io/) in Beijing, China. My work focused on developing monocular and multiple-view camera motion capture systems.
 
 
 
@@ -20,9 +20,7 @@ I obtained my Master's degree in Interactive Media Technology from Trinity Colle
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
-<video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-  <source src="../images/demo.mp4" type="video/mp4">
-</video>
+<img width="100%" src="../images/CrowdSplat-UserStudy-design.png">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Evaluating CrowdSplat: Perceived Level of Detail for Gaussian Crowds</b><br>
@@ -42,7 +40,9 @@ Xiaohan Sun*, <b>Yinghan Xu</b>*, John Dingliana, Carol O’Sullivan (*=equal co
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
-<img width="100%" src="../images/CrowdSplat-UserStudy-design.png"></img>
+<video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+  <source src="../images/CrowdSplat.mp4" type="video/mp4">
+</video>
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>CrowdSplat: Exploring Gaussian Splatting For Crowd Rendering</b><br>
