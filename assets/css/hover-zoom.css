@@ -1,0 +1,11 @@
+.hover-zoom {
+  cursor: pointer;
+  width: 100%;
+}
+.hover-zoom-overlay {
+  position: fixed;
+  z-index: 9999;
+  pointer-events: auto;
+  transition: width 0.3s ease, height 0.3s ease, left 0.3s ease, top 0.3s ease;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+}
