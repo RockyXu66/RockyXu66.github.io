@@ -25,7 +25,9 @@ I earned my Master's degree in Interactive Media Technology from Trinity College
 <b>Reality Check: How Avatar and Face Representation Affect the Perceptual Evaluation of Synthesized Gestures</b><br>
 <span style="font-size: medium">Haoyang Du, <b>Yinghan Xu</b>, John Dingliana, Brian Keegan, Rachel McDonnell, Cathy Ennis<br>
 <i>ACM SIGGRAPH, 2026</i><br>
-<a href="https://hydu0016.github.io/RealityCheck/"><i class="fas fa-fw fa-globe"></i>Projectpage</a>
+<a href="https://hydu0016.github.io/RealityCheck/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://arxiv.org/abs/2605.06063"><i class="fas fa-fw fa-file-alt"></i>Paper</a> /
+<a href="https://youtu.be/Ge9cXAj315w?si=hEdPlx7_Ig54xMnO"><i class="fas fa-fw fa-video"></i>Video</a>
 </span>
 </td>
 </tr>
