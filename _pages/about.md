@@ -68,7 +68,7 @@ I earned my Master's degree in Interactive Media Technology from Trinity College
 <b>Evaluating CrowdSplat: Perceived Level of Detail for Gaussian Crowds</b><br>
 <span style="font-size: medium">Xiaohan Sun*, <b>Yinghan Xu</b>*, John Dingliana, Carol O’Sullivan (*=equal contribution)<br>
 <i>IEEE VR (workshop paper), 2025</i><br>
-<a href="https://bigmmgz.github.io/CrowdSplat/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://bigmmgz.github.io/CrowdSplatPage/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
 <a href="https://arxiv.org/abs/2501.17085"><i class="fas fa-fw fa-file-alt"></i>Paper</a></span>
 <!-- <a href=""><i class="fas fa-fw fa-video"></i>Video</a> -->
 </td>
@@ -90,7 +90,7 @@ I earned my Master's degree in Interactive Media Technology from Trinity College
 <b>CrowdSplat: Exploring Gaussian Splatting For Crowd Rendering</b><br>
 <span style="font-size: medium">Xiaohan Sun*, <b>Yinghan Xu</b>*, John Dingliana, Carol O’Sullivan (*=equal contribution)<br>
 <i>IMVIP (short paper), 2024</i><br>
-<a href="https://bigmmgz.github.io/CrowdSplat/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://bigmmgz.github.io/CrowdSplatPage/"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
 <a href="https://arxiv.org/abs/2501.17792"><i class="fas fa-fw fa-file-alt"></i>Paper</a></span>
 <!-- <a href=""><i class="fas fa-fw fa-video"></i>Video</a><br> -->
 </td>
