@@ -19,6 +19,29 @@ I earned my Master's degree in Interactive Media Technology from Trinity College
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:10px;width:35%;vertical-align:middle;border:none" align="center">
+<video class="hover-zoom" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
+  <source src="../images/projects/splatbus/video-demo.webm" type="video/webm">
+</video>
+</td>
+<td style="padding:0px;width:65%;vertical-align:middle;border: none" align="left">
+<b>SplatBus: A Gaussian Splatting Viewer Framework via GPU Interprocess Communication</b><br>
+<span style="font-size: medium"><b>Yinghan Xu</b>, Théo Morales, John Dingliana<br>
+<i>SIGGRAPH Asia Technical Communications, 2026</i><br>
+<a href="https://github.com/RockyXu66/splatbus"><i class="fas fa-fw fa-globe"></i>Projectpage</a>
+<!-- / <a href="https://arxiv.org/abs/2601.15431"><i class="fas fa-fw fa-file-alt"></i>Paper</a> -->
+<!-- <a href="https://youtu.be/hAAQ-tCM2-U?si=1iwaaV0d9khPUmBO"><i class="fas fa-fw fa-video"></i>Video</a> -->
+</span>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:10px;width:35%;vertical-align:middle;border:none" align="center">
 <img class="hover-zoom" src="../images/projects/reality-check/Reality-Check-Teaser.png">
 </td>
 <td style="padding:0px;width:65%;vertical-align:middle;border: none" align="left">
@@ -98,29 +121,6 @@ I earned my Master's degree in Interactive Media Technology from Trinity College
 </table>
 </div>
 
----
-
+<!--
 ## Projects
-
-<div>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
-<tr>
-<td style="padding:10px;width:35%;vertical-align:middle;border:none" align="center">
-<video class="hover-zoom" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-  <source src="../images/projects/splatbus/video-demo.webm" type="video/webm">
-</video>
-</td>
-<td style="padding:0px;width:65%;vertical-align:middle;border: none" align="left">
-<b>SplatBus: A Gaussian Splatting Viewer Framework via GPU Interprocess Communication</b><br>
-<span style="font-size: medium"><b>Yinghan Xu</b>, Théo Morales, John Dingliana<br>
-<i>arXiv preprint, 2026</i><br>
-<a href="https://github.com/RockyXu66/splatbus"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
-<a href="https://arxiv.org/abs/2601.15431"><i class="fas fa-fw fa-file-alt"></i>Paper</a>
-<!-- <a href="https://youtu.be/hAAQ-tCM2-U?si=1iwaaV0d9khPUmBO"><i class="fas fa-fw fa-video"></i>Video</a> -->
-</span>
-</td>
-</tr>
-</table>
-</div>
-
----
+-->
