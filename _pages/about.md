@@ -27,8 +27,8 @@ I earned my Master's degree in Interactive Media Technology from Trinity College
 <b>SplatBus: A Gaussian Splatting Viewer Framework via GPU Interprocess Communication</b><br>
 <span style="font-size: medium"><b>Yinghan Xu</b>, Théo Morales, John Dingliana<br>
 <i>SIGGRAPH Asia Technical Communications, 2026</i><br>
-<a href="https://github.com/RockyXu66/splatbus"><i class="fas fa-fw fa-globe"></i>Projectpage</a>
-<!-- / <a href="https://arxiv.org/abs/2601.15431"><i class="fas fa-fw fa-file-alt"></i>Paper</a> -->
+<a href="https://github.com/RockyXu66/splatbus"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="https://arxiv.org/abs/2601.15431"><i class="fas fa-fw fa-file-alt"></i>Paper</a>
 <!-- <a href="https://youtu.be/hAAQ-tCM2-U?si=1iwaaV0d9khPUmBO"><i class="fas fa-fw fa-video"></i>Video</a> -->
 </span>
 </td>
